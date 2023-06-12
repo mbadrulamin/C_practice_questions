@@ -23,6 +23,7 @@ To make the most out of this repository, follow these steps:
 4. **Collaborate and Share:** If you have any questions or ideas related to the exercises or notes, feel free to open an issue or submit a pull request. Collaboration and knowledge sharing are highly encouraged in this community. Let's grow together as C programmers!
 
 ##Contributions
+
 While this repository primarily serves as a personal exercise collection, I welcome contributions from fellow C programmers. If you spot any errors, have suggestions for improvements, or want to add your own exercises, feel free to open an issue or submit a pull request. Together, we can create an even more valuable resource for the C programming community.
 
 Happy coding!
